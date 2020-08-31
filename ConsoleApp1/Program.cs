@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int x = 8;
-            Console.WriteLine(x);
+            Console.WriteLine(x+78);
         }
     }
 }
